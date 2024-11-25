@@ -1,5 +1,3 @@
-# .gitignore
-
 # Virtual environments
 ghactions/
 venv/
