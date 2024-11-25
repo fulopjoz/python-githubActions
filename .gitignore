@@ -1,0 +1,13 @@
+# Virtual environments
+ghactions/
+venv/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/editor directories
+.vscode/
+.idea/
